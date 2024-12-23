@@ -29,11 +29,22 @@ Aquí están algunas de las mejores características del proyecto:
 ## Pasos de Instalacion:
 
 1. Clona el repositorio
-1. Crea un ambiente de conda
     ``` bash
-    conda create <nombre-ambiente> python=3.11
-    ```
-1. Descarga las librerías que se mencionan en el apartado de .
+    git clone https://github.com/diego-prokes/VNL-statistics-scraper.git
+    ```    
+1. Configura un entonrno de conda
+    - Crea el entorno
+        ``` bash
+        conda create -n <nombre-entorno|vss> python=3.11
+        ```    
+    - Activa el entorno
+        ``` bash
+        conda activate <nombre-entorno|vss>
+        ```
+    - Descarga las librerías necesarias para el proyecto
+        ``` bash
+        pip install -r requirements.txt
+        ```
 1. Ejecuta el script y obtén tus datos.
 
 ## Librerias Empleadas
