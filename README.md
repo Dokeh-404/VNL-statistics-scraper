@@ -2,7 +2,7 @@
 
 ![Tema Oscuro VNL statistics scraper](<docs/assets/Tema Oscuro.png>)
 
-<p id="description">VNL statistics scraper es un script de python que hace web scraping al sitio de estadísticas de la Voleyball Nations League (VNL). La extracción automática facilita la tarea de analizar y realizar visualizaciones actualizadas de ellos.</p>
+<p id="description">VNL Statistics Visualizer es un proyecto que permite generar visualizaciones atractivas de los mejores jugadores en cada función de acuerdo a los datos actuales de la página de la VNL. Esto facilita la generación de contenido informativo de la VNL para redes sociales.</p>
 
 ## Tabla de Contenidos
 
@@ -22,9 +22,9 @@ Acá quiero insertar una imagen o una muestra de los resultados.
 
 Aquí están algunas de las mejores características del proyecto: 
 
-*   
-*
-*
+*   ****
+*   ****
+*   ****
 
 ## Pasos de Instalacion:
 
@@ -32,7 +32,7 @@ Aquí están algunas de las mejores características del proyecto:
     ``` bash
     git clone https://github.com/diego-prokes/VNL-statistics-scraper.git
     ```    
-1. Configura un entonrno de conda
+1. Configura un entorno de conda
     - Crea el entorno
         ``` bash
         conda create -n <nombre-entorno|vss> python=3.11
