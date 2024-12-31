@@ -2,7 +2,7 @@
 
 ![Tema Oscuro VNL statistics scraper](<docs/assets/Tema Oscuro.png>)
 
-<p id="description">VNL Statistics Visualizer es un proyecto que permite generar visualizaciones atractivas de los mejores jugadores en cada función de acuerdo a los datos actuales de la página de la VNL. Esto facilita la generación de contenido informativo de la VNL para redes sociales.</p>
+<p id="description">VNL Statistics Visualizer es un proyecto que extrae mediante web scraping la información de la temporada 2024 del sitio oficial de la VNL. Luego, a partir de ellos, genera contenido visualmente atractivo para publicarlo en redes sociales. Este automatiza y agiliza el proceso de generar contenido de voleibol para redes sociales.</p>
 
 ## Tabla de Contenidos
 
